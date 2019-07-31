@@ -46,7 +46,7 @@ files:
   - source: /translations/august-rest-api/*.en.xlf
     translation: /translations/august-rest-api/%file_name%.%two_letters_code%.xlf
     translation_replace:
-      .en:
+      .en: ""
     update_option: update_as_unapproved
 
   - source: /translations/august-subscription-server/*.en.xlf
